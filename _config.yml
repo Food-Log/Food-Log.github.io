@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: FoodLog Athlete
+description: AIのちからで管理栄養士とアスリートのコミュニケーションを手助けします
+github:
+  is_project_page: false
