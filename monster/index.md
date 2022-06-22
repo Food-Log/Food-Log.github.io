@@ -4,10 +4,10 @@
 
 ## それぞれのアプリの使い方はこちら
 
-- [管理栄養士Web](https://food-consul-app.web.app)
-- [アスリート向けアプリ(iOS)](https://itunes.apple.com/jp/app/food-consul-app/id1445567985?mt=8)  
+- [管理栄養士 Web](https://food-consul-app.web.app)
+- [アスリート向けアプリ(iOS)](https://itunes.apple.com/jp/app/food-consul-app/id1445567985?mt=8)
 - [アスリート向けアプリ(Android)](https://play.google.com/store/apps/details?id=karszawa.foodLogAthlForDietitians.app)
-- [管理栄養士向けアプリ(iOS)](https://apps.apple.com/us/app/foodlog-athl-for-dietitians/id1476571781)  
+- [管理栄養士向けアプリ(iOS)](https://apps.apple.com/us/app/foodlog-athl-for-dietitians/id1476571781)
 - [管理栄養士向けアプリ(Android)](https://play.google.com/store/apps/details?id=me.foologathl.app)
 
 ## FoodLog Athlete とは
@@ -37,7 +37,7 @@ FoodLog Athlete は管理栄養士とアスリートに向けて 3 つのアプ�
 - 選手の体組成値の変化を参照できる
 - 選手からの食事画像・メッセージが来たときに通知を受け取ることができる
 
-更に詳しい使い方は[FoodLog Athlete の使い方（管理栄養士向け）](https://karszawa.github.io/monster/usage-for-dietitians)をご参照下さい。
+更に詳しい使い方は[FoodLog Athlete の使い方（管理栄養士向け）](https://food-log.github.io/monster/usage-for-dietitians)をご参照下さい。
 
 ### 管理栄養士向けモバイルアプリケーション（iOS・Android）
 
@@ -70,7 +70,7 @@ FoodLog Athlete は管理栄養士とアスリートに向けて 3 つのアプ�
 - 管理栄養士からのコメントを表示することができる
 - 管理栄養士にコメントすることができる
 
-更に詳しい使い方は[FoodLog Athlete の使い方（アスリート向け）](https://karszawa.github.io/monster/usage-for-athletes)をご参照下さい。
+更に詳しい使い方は[FoodLog Athlete の使い方（アスリート向け）](https://food-log.github.io/monster/usage-for-athletes)をご参照下さい。
 
 ## 運営
 
@@ -80,7 +80,7 @@ FoodLog Athlete は管理栄養士とアスリートに向けて 3 つのアプ�
 
 ## 利用規約
 
-利用規約は[こちら](https://karszawa.github.io/monster/terms-of-service)
+利用規約は[こちら](https://food-log.github.io/monster/terms-of-service)
 
 ## 利用料金
 
